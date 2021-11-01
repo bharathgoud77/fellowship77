@@ -1,0 +1,7 @@
+E:\fellowship\fellowship77\empWageClass\empWageClass\bin\Debug\empWageClass.exe.config
+E:\fellowship\fellowship77\empWageClass\empWageClass\bin\Debug\empWageClass.exe
+E:\fellowship\fellowship77\empWageClass\empWageClass\bin\Debug\empWageClass.pdb
+E:\fellowship\fellowship77\empWageClass\empWageClass\obj\Debug\empWageClass.csproj.AssemblyReference.cache
+E:\fellowship\fellowship77\empWageClass\empWageClass\obj\Debug\empWageClass.csproj.CoreCompileInputs.cache
+E:\fellowship\fellowship77\empWageClass\empWageClass\obj\Debug\empWageClass.exe
+E:\fellowship\fellowship77\empWageClass\empWageClass\obj\Debug\empWageClass.pdb
