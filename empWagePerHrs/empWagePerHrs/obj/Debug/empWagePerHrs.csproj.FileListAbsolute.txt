@@ -1,0 +1,7 @@
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\bin\Debug\empWagePerHrs.exe.config
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\bin\Debug\empWagePerHrs.exe
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\bin\Debug\empWagePerHrs.pdb
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\obj\Debug\empWagePerHrs.csproj.AssemblyReference.cache
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\obj\Debug\empWagePerHrs.csproj.CoreCompileInputs.cache
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\obj\Debug\empWagePerHrs.exe
+E:\fellowship\fellowship77\empWagePerHrs\empWagePerHrs\obj\Debug\empWagePerHrs.pdb
