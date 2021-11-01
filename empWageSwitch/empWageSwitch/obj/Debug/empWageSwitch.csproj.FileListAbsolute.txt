@@ -1,0 +1,7 @@
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\bin\Debug\empWageSwitch.exe.config
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\bin\Debug\empWageSwitch.exe
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\bin\Debug\empWageSwitch.pdb
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\obj\Debug\empWageSwitch.csproj.AssemblyReference.cache
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\obj\Debug\empWageSwitch.csproj.CoreCompileInputs.cache
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\obj\Debug\empWageSwitch.exe
+E:\fellowship\fellowship77\empWageSwitch\empWageSwitch\obj\Debug\empWageSwitch.pdb
