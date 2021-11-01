@@ -1,0 +1,7 @@
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\obj\Debug\totalWageForCompany.csproj.AssemblyReference.cache
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\obj\Debug\totalWageForCompany.csproj.CoreCompileInputs.cache
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\bin\Debug\totalWageForCompany.exe.config
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\bin\Debug\totalWageForCompany.exe
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\bin\Debug\totalWageForCompany.pdb
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\obj\Debug\totalWageForCompany.exe
+E:\fellowship\fellowship77\totalWageForCompany\totalWageForCompany\obj\Debug\totalWageForCompany.pdb
