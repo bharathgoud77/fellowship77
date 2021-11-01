@@ -1,0 +1,7 @@
+E:\fellowship\fellowship77\UC_1\UC_1\bin\Debug\UC_1.exe.config
+E:\fellowship\fellowship77\UC_1\UC_1\bin\Debug\UC_1.exe
+E:\fellowship\fellowship77\UC_1\UC_1\bin\Debug\UC_1.pdb
+E:\fellowship\fellowship77\UC_1\UC_1\obj\Debug\UC_1.csproj.AssemblyReference.cache
+E:\fellowship\fellowship77\UC_1\UC_1\obj\Debug\UC_1.csproj.CoreCompileInputs.cache
+E:\fellowship\fellowship77\UC_1\UC_1\obj\Debug\UC_1.exe
+E:\fellowship\fellowship77\UC_1\UC_1\obj\Debug\UC_1.pdb

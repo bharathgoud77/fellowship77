@@ -1,0 +1,2 @@
+E:\fellowship\fellowship77\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\fellowship\fellowship77\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
