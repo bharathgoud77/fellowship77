@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\empWage\empWage\bin\Debug\empWage.exe.config
+C:\Users\ADMIN\source\repos\empWage\empWage\bin\Debug\empWage.exe
+C:\Users\ADMIN\source\repos\empWage\empWage\bin\Debug\empWage.pdb
+C:\Users\ADMIN\source\repos\empWage\empWage\obj\Debug\empWage.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\empWage\empWage\obj\Debug\empWage.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\empWage\empWage\obj\Debug\empWage.exe
+C:\Users\ADMIN\source\repos\empWage\empWage\obj\Debug\empWage.pdb
